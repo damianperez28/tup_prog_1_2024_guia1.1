@@ -1,0 +1,4 @@
+Un laboratorio se encarga de producir un compuesto formado por 2 químicos (A y B)
+según la siguiente proporción: 2,55 g de A - 5,78 g de B por cada litro.
+Requiere un algoritmo que permita calcular el total en gramos que debe agregar de cada químico 
+según los mililitros pedidos por un cliente.
