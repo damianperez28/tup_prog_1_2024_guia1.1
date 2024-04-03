@@ -1,0 +1,5 @@
+Una fábrica de remeras desea calcular el costo de producción de una nueva línea según los siguientes datos:
+a) Costo y metros de la pieza de tela.
+b) Cantidad de tela utilizada por cada unidad
+c) Se recarga un 23% de gasto producidos por otros materiales
+d) Se recarga un 57% de gasto por mano de obra.
