@@ -1,0 +1,4 @@
+Para el tratamiento de una planta de filtrado, se utiliza una dosis de cloro de 7 gramos
+cada mil litros de agua, para ello se utilizan piletas de distintas capacidades,
+determine la cantidad de gramos a utilizar en base a las medidas de la pileta que ingrese
+el usuario.
